@@ -1,0 +1,4 @@
+https://jsfiddle.net/mydpt6L4/1/  -------->colour the text box
+
+
+https://jsfiddle.net/x4vof9rh/  ----------->promise
